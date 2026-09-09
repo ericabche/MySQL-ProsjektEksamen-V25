@@ -59,6 +59,4 @@ mysql -u <bruker> -p < data.sql
 
 ## Merk
 
-Dette er en eksamensbesvarelse. Kontroller at HiØ tillater publisering av besvarelsen, og at
-verken kandidatnummer eller medstudentens navn ligger igjen i filene, før repoet gjøres
-offentlig.
+Dette er en eksamensbesvarelse.
