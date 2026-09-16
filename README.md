@@ -117,6 +117,11 @@ er verdt å vite for den som vil kjøre koden:
   `INSERT`-setninger vil legge inn duplikate rader hvis de kjøres i sin helhet.
 
 ## Mitt bidrag
-
-**Fyll inn:** to–tre punkter om hva du gjorde kontra medstudenten — normaliseringen,
-ER-modellen, views, spørringene eller rapportskrivingen.
+ 
+Prosjektet ble utført i gruppe på to. Mitt bidrag var:
+ 
+- Normaliseringen fra UNF til BCNF, inkludert kartlegging av de funksjonelle avhengighetene og
+  begrunnelsen for hvert steg
+- ER-modellen i MySQL Workbench, med entiteter, relasjoner, kardinalitet og datatyper
+- Mesteparten av rapporten
+- Views og spørringer ble utviklet i fellesskap
