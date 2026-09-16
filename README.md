@@ -34,7 +34,7 @@ Seks tabeller etter full normalisering til BCNF:
 Det er den som gjør at systemet kan svare på «hvilken smøring passer for en nybegynner i denne
 løypa, under disse forholdene».
 
-![ER-modell](Screenshots/ER%20Diagram.png)
+![ER-modell](Prosjekteksamen/Screenshots/ER%20Diagram.png)
 
 ER-modellen er laget i MySQL Workbench. Kildefilen ligger som `ER Diagram.mwb`.
 
